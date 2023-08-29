@@ -130,7 +130,7 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
-  {% endif %}
+
 </p>
 
 
