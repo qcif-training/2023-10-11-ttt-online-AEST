@@ -1,17 +1,17 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-venue: "FIXME"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "FIXME"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
+venue: "CSIRO"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "41 Boggo Rd, Dutton Park QLD 4102"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+country: "au"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latitude: "45"        # decimal latitude of training venue (use https://www.latlong.net/)
-longitude: "-1"       # decimal longitude of the training venue (use https://www.latlong.net)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["FIXME"] # boxed, comma-separated list of trainers' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+latitude: "-27.494596"        # decimal latitude of training venue (use https://www.latlong.net/)
+longitude: "153.029890"       # decimal longitude of the training venue (use https://www.latlong.net)
+humandate: "October 11, 12 and 16, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10:00am to 2:00pm AEST 11-12 Oct, 9:00am to 5:00pm AEST 16 Oct"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-10-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-10-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Sara King","Ann Backhaus","Mark Crowe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
@@ -115,9 +115,15 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   -->
 <h3 id="where">Where</h3>
 
-
-{% if online == "false" %}
 <p id="venue">
+  This workshop will be delivered online for the first two half days and in person for the final full day. 
+  </p>
+  <p id="venue">
+  The online training will be conducted using the Zoom video conferencing platform. No log-in is needed.
+  However, if you have not used Zoom before, please click the link a few minutes early as it may prompt you to
+  install the Zoom app or browser extension. You should have received a connection link in the workshop information email.
+  </p>
+  <p id="venue">
   {{page.address}}.
   {% if page.latitude and page.longitude %}
   Get directions with
@@ -126,23 +132,8 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
   {% endif %}
 </p>
-{% elsif online == "true_public" %}
-<p id="venue">
-  Online at <a href="{{page.address}}">{{page.address}}</a>.
-  The training will be conducted using the Zoom video conferencing platform. No log-in is needed.
-  However, if you have not used Zoom before, please click the link a few minutes early as it may prompt you to
-  install the Zoom app or browser extension. You should have received a connection link in the same email that
-  directed you to this website. If you found this page by another means and did not receive the connection link,
-  please check your spam folder and email instructor.training@carpentries.org with your Trainers (contact details below) on cc.
-</p>
-{% elsif online == "true_private" %}
-<p id="venue">
-  This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
-</p>
-{% endif %}
 
-{% if online == "false" %}
+
 
 <h4 id="accessibility">Accessibility</h4>
 
