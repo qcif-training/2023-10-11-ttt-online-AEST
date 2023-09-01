@@ -124,7 +124,7 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
   install the Zoom app or browser extension. You will receive the Zoom connection link in the pre-workshop information email.
   </p>
   <p id="venue">
-  The in-person component will take place at CSIRO in in the Brisbane EcoSciences precinct.
+  The in-person component will take place at CSIRO in in the Brisbane EcoSciences precinct:
   {{page.address}}.
   {% if page.latitude and page.longitude %}
   Get directions with
