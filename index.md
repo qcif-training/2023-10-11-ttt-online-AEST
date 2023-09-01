@@ -8,7 +8,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "-27.494596"        # decimal latitude of training venue (use https://www.latlong.net/)
 longitude: "153.029890"       # decimal longitude of the training venue (use https://www.latlong.net)
 humandate: "October 11, 12 and 16, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "11:00am to 3:00pm AEST 11-12 Oct, 9:00am to 5:00pm AEST 16 Oct. <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=Australian+Carpentries+Instructor+Training+October+2023&iso=20231011T11&p1=47&ah=4'>***CHECK YOUR TIMEZONE HERE***</a>"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "11:00am to 3:00pm AEST 11-12 Oct, 9:00am to 5:00pm AEST 16 Oct. <br><a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=Australian+Carpentries+Instructor+Training+October+2023&iso=20231011T11&p1=47&ah=4'>***CHECK START TIME FOR YOUR TIMEZONE HERE***</a>"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-10-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-10-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sara King","Ann Backhaus","Mark Crowe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
