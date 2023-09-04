@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 venue: "CSIRO"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "41 Boggo Rd, Dutton Park QLD 4102"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Girraween seminar room, Ecosciences Precinct, 41 Boggo Rd, Dutton Park QLD 4102"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "au"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latitude: "-27.494596"        # decimal latitude of training venue (use https://www.latlong.net/)
