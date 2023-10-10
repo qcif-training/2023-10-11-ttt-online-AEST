@@ -243,12 +243,14 @@ for more information.
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
+<!--
 <p>
   Please see <a href="{{ site.training_site }}/instructor/index.html#schedule">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
 </p>
 
 
 <hr/>
+-->
 
 <!--
 NOTE: This space can be customized to reflect the unique schedule of your workshop. If you would like it to display,
@@ -303,36 +305,34 @@ TWO DAY SCHEDULE
 -->
 
 
-<!--
-FOUR DAY SCHEDULE
---->
-<!--
+
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 1 - 11 October</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:30</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:30</td> <td>Break </td> </tr>
-      <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Finish day 1 </td> </tr>
+      <tr> <td>11:00</td> <td>Welcome </td> </tr>
+      <tr> <td>11:30</td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>12:30</td> <td>Break </td> </tr>
+      <tr> <td>13:00</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>13:45</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>14:30</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>15:00</td> <td>Finish day 1 </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2</h3>
+    <h3>Day 2 - 12 October</h3>
     <table class="table table-striped">
-      <tr> <td>13:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:35</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>16:50</td> <td>Finish day 2</td> </tr>
+      <tr> <td>11:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>11:15</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>12:15</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
+      <tr> <td>13:00</td> <td>Break </td> </tr>
+      <tr> <td>13:30</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>14:30</td> <td>Wrap-up and Homework </td> </tr>
+      <tr> <td>14:50</td> <td>Finish day 2</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 3</h3>
+    <h3>Day 3 - 16 October</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
       <tr> <td>09:10</td> <td>Getting Started on Instructor Certification </td> </tr>
@@ -341,24 +341,19 @@ FOUR DAY SCHEDULE
       <tr> <td>10:40</td> <td>Live Coding Is a Skill </td> </tr>
       <tr> <td>11:45</td> <td>Preparing to Teach </td> </tr>
       <tr> <td>12:30</td> <td>Finish day 3 </td> </tr>
-    </table>
-  </div>
-  <div class="col-md-6">
-    <h3>Day 4</h3>
-    <table class="table table-striped">
       <tr> <td>13:30</td> <td>More Practice Live Coding </td> </tr>
       <tr> <td>14:15</td> <td>Working with Your Team</td> </tr>
       <tr> <td>15:25</td> <td>Break </td> </tr>
       <tr> <td>15:40</td> <td>Launches and Landings </td> </tr>
       <tr> <td>16:20</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:40</td> <td>Wraping Up </td> </tr>
+      <tr> <td>16:40</td> <td>Wrapping Up </td> </tr>
       <tr> <td>16:50</td> <td>Post-Training Survey </td> </tr>
       <tr> <td>17:05</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
 
--->
+
 
 
 <!--
