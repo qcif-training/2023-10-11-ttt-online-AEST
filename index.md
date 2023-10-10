@@ -318,6 +318,16 @@ TWO DAY SCHEDULE
       <tr> <td>14:30</td> <td>Building Skill with Feedback </td> </tr>
       <tr> <td>15:00</td> <td>Finish day 1 </td> </tr>
     </table>
+    <h3>Day 2 - 12 October</h3>
+    <table class="table table-striped">
+      <tr> <td>11:00</td> <td>Welcome Back </td> </tr>
+      <tr> <td>11:15</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>12:15</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
+      <tr> <td>13:00</td> <td>Break </td> </tr>
+      <tr> <td>13:30</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>14:30</td> <td>Wrap-up and Homework </td> </tr>
+      <tr> <td>14:50</td> <td>Finish day 2</td> </tr>
+    </table>
   </div>
   <div class="col-md-6">
     <h3>Day 3 - 16 October</h3>
@@ -339,19 +349,6 @@ TWO DAY SCHEDULE
       <tr> <td>17:05</td> <td>Finish </td> </tr>
     </table>
   </div>
-  <div class="col-md-6">
-    <h3>Day 2 - 12 October</h3>
-    <table class="table table-striped">
-      <tr> <td>11:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>11:15</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>12:15</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>13:00</td> <td>Break </td> </tr>
-      <tr> <td>13:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>14:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>14:50</td> <td>Finish day 2</td> </tr>
-    </table>
-  </div>
-
 </div>
 
 
