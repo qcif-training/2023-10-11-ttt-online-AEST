@@ -241,7 +241,7 @@ for more information.
 
 <hr/>
 
-<h2 id="materials" name="materials">Training Materials and Schedule</h2>
+<h2 id="materials" name="materials">Schedule</h2>
 
 <!--
 <p>
